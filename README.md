@@ -1,4 +1,4 @@
-# crosss-Sheet-member-checking
+# cross-sheet-member-checking
 
 This is a simple python project that helps checking if names/IBAN from current members (csv) align with the Rabobank
 Business collection (Dutch: 'Incasso') sheet (csv).
